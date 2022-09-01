@@ -1,0 +1,16 @@
+{
+  "name": "TOG Talk X Insights into the decentralised web - Web3 & DeFi",
+  "time": {
+    "start": "2022-11-24T18:15:00.000Z",
+    "end": "2022-11-24T20:00:00.000Z"
+  },
+  "description": "Join us for a fascinating evening of insight into companies that fund the research and development of teams who are building the foundation of the decentralised web. The talk will be looking into how decentralisation can create equality and a more sustainable future.",
+  "venue": {
+    "name": "Borough Yards",
+    "address": "13 Dirty Lane\nLondon, SE1 9PA"
+  },
+  "image": {
+    "src": "https://www.theofficegroup.com/sites/default/files/styles/card_large_/public/acquiadam-assets/decentralised-web.jpg",
+    "alt": "Insights into the decentralised web"
+  }
+}

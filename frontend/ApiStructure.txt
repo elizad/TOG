@@ -1,0 +1,85 @@
+ EVENT endPoints
+
+  "name": string
+  "time":
+    "start": datetime
+    "end": datetime
+  "description": string,
+  "venue":
+    "name": string,
+    "address": string
+  "image":
+    "src": url,
+    "alt": string
+
+  !! THIS IS JUST A SMALL DEMO APP using react, redux, axios, tokens,  mongoose
+  
+   1 Can be done diferentlly for example following https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-react and microsoft guidelines 
+
+   2 Can be done diferentlly for example following aws and serverless library guidelines
+   
+   3 Can be done diferentlly for example with postgresql or a php or python (django) back
+
+   4 Can be done diferentlly for example with react-ts (next step) or a angular frontend
+   
+
+    Why event API?
+
+
+    How do I get access to the different tools and endpoints?
+     - swagger
+     - postman
+
+    What should I do after getting access?
+
+      - CRUD on EVENT API - USING A FORM ON FRONT END
+
+
+    How do I use [this specific feature]?
+
+
+
+    TO BE DONE
+
+    VENUE ENDPOINT
+
+        Why event API?
+         TO BE ABLE TO MANAGE THE LOCATIONS MORE EASY AND FRAGMENT THE API
+
+
+        How do I get access to the different tools and endpoints?
+         - swagger
+         - postman
+         - BROWSER TOOL ON DEV ENV
+
+        What should I do after getting access?
+          - CRUD on VENUE API - USING A FORM ON APP FRONT END
+
+
+        How do I use [this specific feature]?
+
+
+    USERS ENDPOINT
+
+        Why USER API?
+         - SECURE AUTH
+
+        How do I get access to the different tools and endpoints?
+         - swagger
+         - postman
+         - BROWSER TOOL ON DEV ENV
+
+        What should I do after getting access?
+
+
+          - CRUD on USER API - USING A FORM ON APP FRONTEND
+
+        How do I use [this specific feature]?
+
+         - USER MANAGEMENT
+         USER ROLES : ADMIN , NORMAL USER
+
+
+
+
+
