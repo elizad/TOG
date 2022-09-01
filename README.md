@@ -23,7 +23,7 @@
 
    4 Can be done differently for example with react-ts (next step) or an angular frontend ....
    
-EVENTS ENDPOINT
+  EVENTS ENDPOINT
     Why event API?
     TO BE ABLE TO MANAGE THE LOCATIONS MORE EASILY AND FRAGMENT THE API
     
