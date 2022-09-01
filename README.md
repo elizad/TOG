@@ -13,7 +13,7 @@
     "src": url,
     "alt": string
 
-  !! THIS IS JUST A SMALL DEMO APP using react, redux, Axios, tokens,  mongoose, more fitted to ne hosted on a regular linux server 
+  !! THIS IS JUST A SMALL DEMO APP using react, redux, Axios, tokens,  mongoose, more fitted to be hosted on a regular linux server 
  
    1 Can be done differently for example following https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-react and microsoft guidelines
 
